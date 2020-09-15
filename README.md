@@ -1,2 +1,2 @@
 # AppliedDataScienceMasters
-MS Data Science Portfolio from Syracuse University
+MS Data Science Portfolio from Syracuse University.
